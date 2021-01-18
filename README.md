@@ -10,8 +10,6 @@ Resimlerdeki Türkçe kelime veya cümleleri çıkartıp Google Translate API ku
 **NOT:** El yazısı ile yazılmış metinler içeren resimlerde, metni düzgün bi şekilde çıkarma başarısı düşebileceğinden çeviriyi sağlıklı yapması beklenemez. Bu yüzden, daha çok bilgisayar ortamında yazılmış metinler içeren resimler kullanılması önerilir.
 
 ## SONUÇ
-- Test Resmi
-![Örnek Resim](https://i.hizliresim.com/td5D8a.png)
 
-- Sonuç
+![Örnek Resim](https://i.hizliresim.com/td5D8a.png)
 ![SONUÇ](https://i.hizliresim.com/Jsw0WS.png)
