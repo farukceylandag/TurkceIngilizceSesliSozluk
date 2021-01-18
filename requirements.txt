@@ -1,0 +1,4 @@
+pytesseract
+googletrans==3.1.0a0
+opencv-python
+pyttsx3
